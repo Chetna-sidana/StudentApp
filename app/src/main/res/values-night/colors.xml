@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#121212</color>
+    <color name="bg_card">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_hint">#AAAAAA</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="purple_brand">#7B5CE0</color>
+    <color name="purple_light">#6B45D9</color>
+    <color name="purple_text">#CCBBFF</color>
+</resources>
